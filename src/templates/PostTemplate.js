@@ -70,13 +70,6 @@ export const postQuery = graphql`
       frontmatter {
         title
         subTitle
-        cover {
-          childImageSharp {
-            resize(width: 300) {
-              src
-            }
-          }
-        }
       }
     }
     author: markdownRemark(id: { regex: "/author/" }) {

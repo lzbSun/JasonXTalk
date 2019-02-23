@@ -61,6 +61,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        slug
       }
     }
     footnote: markdownRemark(id: { regex: "/footnote/" }) {

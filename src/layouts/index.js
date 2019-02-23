@@ -137,16 +137,6 @@ export const guery = graphql`
           frontmatter {
             title
             subTitle
-            category
-            cover {
-              children {
-                ... on ImageSharp {
-                  resolutions(width: 90, height: 90) {
-                    ...GatsbyImageSharpResolutions_withWebp_noBase64
-                  }
-                }
-              }
-            }
           }
         }
       }
@@ -163,7 +153,6 @@ export const guery = graphql`
           }
           frontmatter {
             title
-            menuTitle
           }
         }
       }

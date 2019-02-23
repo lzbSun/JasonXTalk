@@ -35,8 +35,8 @@ const Socialcons = props => {
   const { classes } = props;
   const items = config.authorSocialLinks;
   const icons = {
-    twitter: TwitterIcon,
-    facebook: FacebookIcon,
+    // twitter: TwitterIcon,
+    // facebook: FacebookIcon,
     github: GithubIcon
   };
 
