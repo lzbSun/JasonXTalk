@@ -10,6 +10,7 @@ tags:
   - "React setState"
   - "翻译"
 description: "setState如何知道该做什么？"
+subTitle: "setState如何知道该做什么？告诉你关于 React 包管理以及 setState 的知识"
 ---
 
 当你在组件里调用了 `setState` , 你觉得接下来会发生什么？
