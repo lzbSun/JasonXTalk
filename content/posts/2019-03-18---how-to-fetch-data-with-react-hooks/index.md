@@ -1,5 +1,16 @@
-
-# 如何使用 React Hooks 获取数据？
+---
+title: "如何使用 React Hooks 获取数据？"
+subTitle: "如何使用 React Hooks 获取数据？"
+date: "2019-03-18"
+template: "post"
+draft: false
+slug: "/posts/how-to-fetch-data-with-react-hooks/"
+category: "React"
+tags:
+  - "React"
+  - "React Hooks"
+  - "翻译"
+---
 
 在这个教程中，我将使用 `state`、`effect` 向你们展示*如何使用 `React Hooks` 获取数据*。我们将用广为人知的 [Hacker News API](https://hn.algolia.com/api) 从科技领域获取热门文章。你也将实现用来获取数据的自定义 `hooks` ，它可以在你的应用中的任何地方重复使用，或者作为一个 `Node package` 发布到 `npm` 上。
 

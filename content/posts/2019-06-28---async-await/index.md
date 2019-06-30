@@ -1,4 +1,17 @@
-# 如何串行/并行处理多个 async/await 
+---
+title: "如何串行/并行处理多个 async/await "
+subTitle: "如何串行/并行处理多个 async/await "
+date: "2019-06-28"
+template: "post"
+draft: false
+slug: "/posts/async-await/"
+category: "React"
+tags:
+  - "React"
+  - "React async await"
+  - "原创"
+---
+
 > 引子：
 >> 思考一个问题：这里有多张图片需要加载，有两种方式一种方式是一次性加载完，另外一种是一张一张依次的加载，那么应该怎么实现这个功能？
 
