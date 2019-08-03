@@ -1,3 +1,3 @@
 # $Jason X' blog
 
-[我的博客地址](https://jasonxtalk.top)
+[我的博客地址](http://jasonxtalk.top)
