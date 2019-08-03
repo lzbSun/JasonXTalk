@@ -1,4 +1,3 @@
-# Unable to parse TAB in JSON files
 ---
 title: "Unable to parse TAB in JSON files"
 subTitle: "Unable to parse TAB in JSON files"
