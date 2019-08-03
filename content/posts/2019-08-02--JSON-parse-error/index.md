@@ -13,7 +13,7 @@
 
 ```javascript
 try {
-      item.body = JSON.parse(item.body.replace('↵', '\n'));
+      item.body = JSON.parse(item.body);
     } catch (e) {
       continue;
     }
