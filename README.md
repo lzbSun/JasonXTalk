@@ -1,3 +1,3 @@
 # $Jason X' blog
 
-个人成长记录。
+[我的博客地址](https://jasonxtalk.top)
